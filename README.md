@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**nasiruddin6/nasiruddin6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm MD Nasir Uddin
 
-Here are some ideas to get you started:
+🚀 Odoo Developer | Web Developer  
+💼 ERP Solutions | Odoo 18/19 | Python | JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+- 🔹 Professional **Odoo Developer**
+- 🔹 Experience with **Odoo 18 & 19**
+- 🔹 Skilled in **Python, XML, JavaScript**
+- 🔹 Worked on **Vendor Registration, HR, Reports, Wizards**
+- 🔹 Passionate about clean & scalable ERP solutions
+
+---
+
+## 🛠️ Skills & Technologies
+- **ERP:** Odoo 18, Odoo 19  
+- **Backend:** Python  
+- **Frontend:** XML, JavaScript, Tailwind CSS  
+- **Database:** PostgreSQL  
+- **Tools:** Git, GitHub, Linux (Ubuntu)
+
+---
+
+## 📂 Featured Projects
+🔹 **Vendor Registration & Onboarding (Odoo 18)**  
+🔹 **Employee Attendance & Leave Reports**  
+🔹 **FSN Analysis Report Module**  
+🔹 **Custom Excel Reports using XlsxWriter**
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-nasir-uddin&show_icons=true)
+
+---
+
+## 📫 Contact Me
+- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+
+⭐ *Always eager to learn and build professional ERP solutions.*
+
