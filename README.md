@@ -8,7 +8,9 @@
 </p>
 
 
-# 👋 Hi, I'm MD Nasir Uddin
+<h3 align="center" style="color:#1E90FF;">
+Hi, I'm MD Nasir Uddin
+</h3>
 
 <h3 align="center" style="color:#1E90FF;">
 Odoo Developer | Web Developer
