@@ -3,7 +3,7 @@
 # 👋 Hi, I'm MD Nasir Uddin
 
 🚀 Odoo Developer | Web Developer  
-💼 ERP Solutions | Odoo 18/19 | Python | JavaScript
+💼 Full Stack Developer | ERP Solutions | Odoo | Python | JavaScript
 
 ---
 
