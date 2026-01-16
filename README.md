@@ -1,12 +1,17 @@
 ## Hi there 👋
 
-<img width="1140" height="720" alt="image" src="https://github.com/user-attachments/assets/ebd3c412-1e16-4ba1-ae17-5581f643cf77" />
+<p align="center">
+  <img src="https://www.mindinventory.com/blog/wp-content/uploads/2022/03/react-nodejs.webp" 
+       alt="Touhidur Zaman - Full Stack Developer Banner" 
+       width="100%" 
+       height="250"/>
+</p>
 
 
 # 👋 Hi, I'm MD Nasir Uddin
 
-🚀 Odoo Developer | Web Developer  
-💼 Full Stack Developer | ERP Solutions | Odoo | Python | JavaScript
+<h3 style="color:#1E90FF;" align="center"Odoo Developer | Web Developer </h3>
+<h3 style="color:#1E90FF;" align="center"Full Stack Developer | ERP Solutions | Odoo | Python | JavaScript </h3>
 
 ---
 
