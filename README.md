@@ -39,8 +39,8 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 📧 Email: nasiruddin.psnl@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/md-liton-mia-a0766b361/
 
 ⭐ *Always eager to learn and build professional ERP solutions.*
 
