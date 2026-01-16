@@ -10,8 +10,14 @@
 
 # 👋 Hi, I'm MD Nasir Uddin
 
-<h3 style="color:#1E90FF;" align="center"Odoo Developer | Web Developer </h3>
-<h3 style="color:#1E90FF;" align="center"Full Stack Developer | ERP Solutions | Odoo | Python | JavaScript </h3>
+<h3 align="center" style="color:#1E90FF;">
+Odoo Developer | Web Developer
+</h3>
+
+<h3 align="center" style="color:#1E90FF;">
+Full Stack Developer | ERP Solutions | Odoo | Python | JavaScript
+</h3>
+
 
 ---
 
