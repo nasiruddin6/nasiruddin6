@@ -19,6 +19,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=1100&height=120&lines=%F0%9F%94%B5+Full+Stack+MERN+%26+Odoo+Developer;%F0%9F%9F%A2+ERP+Solutions+%7C+%F0%9F%9F%A3+Odoo+%7C+%F0%9F%9F%A1+Python+%7C+%F0%9F%94%B4+JavaScript&color=38BDF8" alt="Typing SVG" />
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nasiruddin6&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 ---
 
