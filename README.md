@@ -60,3 +60,15 @@
 
 ⭐ *Always eager to learn and build professional ERP solutions.*
 
+## 📊 GITHUB STATISTICS & ANALYSIS:
+
+### **GitHub Contributions:**
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+### 🔥 GitHub Streak:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nasiruddin6&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
+
