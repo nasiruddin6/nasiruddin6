@@ -33,7 +33,7 @@
 ---
 
 ## 🛠️ Skills & Technologies
-- **ERP:** Odoo 14,17,18&19  
+- **ERP:** Odoo 14, 17, 18 & 19
 - **Backend:** Python  
 - **Frontend:** XML, JavaScript, Tailwind CSS  
 - **Database:** PostgreSQL  
@@ -42,21 +42,29 @@
 ---
 
 ## 📂 Featured Projects
-🔹 **Vendor Registration & Onboarding (Odoo 18)**  
+🔹 **Vendor Registration & Onboarding (Odoo 17, 18 & 19)**
 🔹 **Employee Attendance & Leave Reports**  
 🔹 **FSN Analysis Report Module**  
 🔹 **Custom Excel Reports using XlsxWriter**
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-nasir-uddin&show_icons=true)
 
 ---
+## 🔗 FOLLOW ME ON SOCIALS:
+<p align="left">
+  <a href="mailto:nasiruddin.psnl@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nasir-uddin-b003a436b/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  &nbsp;
+  <a href="https://discord.com/channels/@nasiruddin6"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
+  &nbsp;
+  <a href="https://www.facebook.com/mdnasiruddinltn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/></a>
+  &nbsp;
+  <a href="https://nasiruddin6.netlify.app/" target="_blank"><img src="https://img.icons8.com/fluency/48/domain.png" width="40"/></a>
+</p>
 
-## 📫 Contact Me
-- 📧 Email: nasiruddin.psnl@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/md-liton-mia-a0766b361/
+---
 
 ⭐ *Always eager to learn and build professional ERP solutions.*
 
