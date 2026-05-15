@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://www.mindinventory.com/blog/wp-content/uploads/2022/03/react-nodejs.webp" 
+  <img src="https://i.ibb.co.com/BVPtc09j/github-Banner.png" 
        alt="Touhidur Zaman - Full Stack Developer Banner" 
        width="100%" 
        height="250"/>
