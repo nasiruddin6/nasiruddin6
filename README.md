@@ -8,17 +8,16 @@
 </p>
 
 
-<h3 align="center" style="color:#1E90FF;">
-Hi, I'm MD Nasir Uddin
-</h3>
+<h1 align="center">
+  <span style="font-size: 48px; font-weight: 800;">
+    Hi, I'm 
+    <span style="color:#1E90FF;">MD Nasir Uddin</span>
+  </span>
+</h1>
 
-<h3 align="center" style="color:#1E90FF;">
-Odoo Developer | Web Developer
-</h3>
-
-<h3 align="center" style="color:#1E90FF;">
-Full Stack Developer | ERP Solutions | Odoo | Python | JavaScript
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=1100&height=120&lines=%F0%9F%94%B5+Full+Stack+MERN+%26+Odoo+Developer;%F0%9F%9F%A2+ERP+Solutions+%7C+%F0%9F%9F%A3+Odoo+%7C+%F0%9F%9F%A1+Python+%7C+%F0%9F%94%B4+JavaScript&color=38BDF8" alt="Typing SVG" />
+</p>
 
 
 ---
