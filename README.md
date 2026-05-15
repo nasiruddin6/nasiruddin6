@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 - 🔹 Professional **Odoo Developer**
-- 🔹 Experience with **Odoo 18 & 19**
+- 🔹 Experience with **Odoo 14, 17, 18 & 19**
 - 🔹 Skilled in **Python, XML, JavaScript**
 - 🔹 Worked on **Vendor Registration, HR, Reports, Wizards**
 - 🔹 Passionate about clean & scalable ERP solutions
@@ -33,7 +33,7 @@
 ---
 
 ## 🛠️ Skills & Technologies
-- **ERP:** Odoo 18, Odoo 19  
+- **ERP:** Odoo 14,17,18&19  
 - **Backend:** Python  
 - **Frontend:** XML, JavaScript, Tailwind CSS  
 - **Database:** PostgreSQL  
