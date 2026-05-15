@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://i.ibb.co.com/BVPtc09j/github-Banner.png" 
+  <img src="https://i.ibb.co.com/qFNMNjHp/Github-Banner01.png"
        alt="Touhidur Zaman - Full Stack Developer Banner" 
        width="100%" 
        height="250"/>
